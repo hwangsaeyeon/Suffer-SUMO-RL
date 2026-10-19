@@ -5,7 +5,7 @@
 
 #### How to Use? 
 
-##### 1. A2C  
+##### 1. ActorCritic
 actor critic으로 학습 가능한 ipynb 파일과, actor critic을 학습한 model이 들어있습니다. 실제 test를 할 때 저희가 사전학습한 모델을 사용하시려면 다음 actor.zip 파일과 critic.zip 파일을 가지고 테스트를 진행하면 됩니다.
 
 ##### 2. DQN   
